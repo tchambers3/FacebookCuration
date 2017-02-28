@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+This Privacy Policy governs the manner in which FacebookCuration collects, uses, maintains and discloses information collected from users (each, a "User") of the https://tchambers3.github.io/FacebookCuration/ website ("Site").
 
-You can use the [editor on GitHub](https://github.com/tchambers3/FacebookCuration/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Personal identification information
+We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Non-personal identification information
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-### Markdown
+Web browser cookies
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+How we use collected information
+FacebookCuration may collect and use Users personal information for the following purposes:
 
-```markdown
-Syntax highlighted code block
+To run and operate our Site
+We may need your information display content on the Site correctly.
+How we protect your information
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-# Header 1
-## Header 2
-### Header 3
+Sharing your personal information
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-- Bulleted
-- List
+We may share or sell information with third parties for marketing or other purposes.
 
-1. Numbered
-2. List
+Sharing your personal information
+This Privacy Policy governs the manner in which FacebookCuration collects, uses, maintains and discloses information collected from users (each, a "User") of the https://tchambers3.github.io/FacebookCuration/ website ("Site").
 
-**Bold** and _Italic_ and `Code` text
+Personal identification information
+We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-[Link](url) and ![Image](src)
-```
+Non-personal identification information
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Web browser cookies
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-### Jekyll Themes
+How we use collected information
+FacebookCuration may collect and use Users personal information for the following purposes:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tchambers3/FacebookCuration/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+To run and operate our Site
+We may need your information display content on the Site correctly.
+How we protect your information
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-### Support or Contact
+Sharing your personal information
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We may share or sell information with third parties for marketing or other purposes.
+
+Changes to this privacy policy
+FacebookCuration has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+Your acceptance of these terms
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. This policy was generated using http://privacypolicies.com
+
+Contacting us
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
+
+This document was last updated on February 27, 2017
